@@ -1,2 +1,2 @@
 # CS-411-Project
-This include code and database
+This repository contains all the codes and databases used for the final project demonstration.
